@@ -1,3 +1,3 @@
 ### My Blog
 
-[TornadoBoy](github.tornadoboy.io)
+[TornadoBoy](tornadoboy.github.io)
