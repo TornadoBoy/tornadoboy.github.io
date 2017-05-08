@@ -1,7 +1,3 @@
 ### My Blog
 
-**日暮苍山远，**
-**天寒白屋贫。**
-
-**柴门闻犬吠，**
-**风雪夜归人。**
+[TornadoBoy](github.tornadoboy.io)
