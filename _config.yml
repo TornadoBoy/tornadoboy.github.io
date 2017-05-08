@@ -1,0 +1,49 @@
+# Site settings
+title: 人生贵得适意耳，何能羁宦数千里以要名爵
+email: wangxin3319@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  人生贵得适意耳，何能羁宦数千里以要名爵
+baseurl: "" # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: TornadoBoy
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter:
+weibo:
+github: tornadoboy
+instagram:
+linkedin:
+
+# avatar and Favicon
+avatar:
+favicon:
+
+# disqus config
+disqus:
+  shortname: tornadoboy
+
+# google analytics config
+ga:
+  id:
+  url: github.tornadoboy.io
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
